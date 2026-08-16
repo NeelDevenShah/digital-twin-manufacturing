@@ -62,6 +62,14 @@ DigiManuf incorporates advanced machine learning models for:
 
 ![System Architecture Diagram](assets/DigiManuf_Architecture.png)
 
+## Project Presentation
+
+The comprehensive project presentation details the business model, architecture, AI capabilities, and implementation roadmap of DigiManuf.
+
+* 📄 **[Download / View Project Presentation (PDF)](assets/presentation.pdf)**
+* 🖥️ **[Digital Twin Demo (PDF)](assets/DigiManuf%20Digital%20Twin%20Demo.pdf)**
+* 📊 **[Anomaly Detection Output Analysis (PDF)](assets/DigiManuf%20Anomaly%20Detection%20Output.pdf)**
+
 ## Installation Instructions
 
 ### Prerequisites
@@ -136,12 +144,27 @@ DigiManuf incorporates advanced machine learning models for:
 - Neel Shah: neeldevenshah@gmail.com
 - Niral Schekhat: 22aiml051@charusat.edu.in
 
-## Some Screen Shots from Application
+## Application Screenshots
 
-![System Architecture Diagram](assets/app/organization_dashboard.png)
-![System Architecture Diagram](assets/app/login.png)
-![System Architecture Diagram](assets/app/sensor_dashboard.png)
-![System Architecture Diagram](assets/app/sensor_page.png)
+### Core Interfaces
+
+| **Digital Twin Visualization** | **AI Anomaly Detection** |
+|:---:|:---:|
+| ![Digital Twin](assets/digital-twin-1.png) | ![Anomaly Detection](assets/anomaly-detection.png) |
+
+| **Organization Dashboard** | **Sensor Page Detail** |
+|:---:|:---:|
+| ![Organization Dashboard](assets/app/organization_dashboard.png) | ![Sensor Page Detail](assets/app/sensor_page.png) |
+
+<details>
+  <summary><b>View Additional Application Screenshots</b></summary>
+  <br>
+
+  | **Login Portal** | **Sensor Dashboard** |
+  |:---:|:---:|
+  | ![Login Portal](assets/app/login.png) | ![Sensor Dashboard](assets/app/sensor_dashboard.png) |
+</details>
+
 
 ## License
 
